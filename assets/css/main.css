@@ -3331,8 +3331,12 @@ input, select, textarea {
 			color: #ffffff;
 		}
 
+<<<<<<< HEAD
 		#intro h1, #intro h2, #intro 
 		, #intro h4, #intro h5, #intro h6 {
+=======
+		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
+>>>>>>> 47d21552ad12afe8bd05a79b94e0d726c0239fd7
 			color: #ffffff;
 		}
 
@@ -4733,6 +4737,7 @@ input, select, textarea {
     line-height: 1.5;
 }
 
+<<<<<<< HEAD
 /* Skill */
 /* Reduce skills section spacing */
 
@@ -4750,6 +4755,8 @@ input, select, textarea {
     line-height: 1.4;
 }
 
+=======
+>>>>>>> 47d21552ad12afe8bd05a79b94e0d726c0239fd7
 /* Internships Section */
 #internships {
     background-color: #f9f9f9;
@@ -4788,8 +4795,11 @@ input, select, textarea {
     font-size: 1.5em;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 47d21552ad12afe8bd05a79b94e0d726c0239fd7
 .internship p {
     color: #555;
     margin: 5px 0;
